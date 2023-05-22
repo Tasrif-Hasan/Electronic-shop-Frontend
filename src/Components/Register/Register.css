@@ -1,0 +1,9 @@
+.form-register input {
+    display: block;
+    width: 100%;
+    margin: 15px 0;
+    padding: 6px 12px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+
+}

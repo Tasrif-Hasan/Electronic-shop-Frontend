@@ -1,0 +1,15 @@
+.product-details img {
+    width: 200px;
+}
+
+.product-details {
+    box-shadow: 0 0 10px lightgrey;
+}
+
+.update-btn {
+    border: 0;
+    font-size: 15px;
+    padding: 6px 12px;
+    border-radius: 5px;
+    background-color: lightblue;
+}
